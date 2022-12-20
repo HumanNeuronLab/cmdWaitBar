@@ -14,7 +14,7 @@ By using simple text output rather than a graphical interface, the computational
 
 The waitbar will adapt to the current width of your command window.
 
-[![View cmdWaitBar on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://ch.mathworks.com/matlabcentral/fileexchange/122312-cmdwaitbar)
+[![View cmdWaitBar on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://ch.mathworks.com/matlabcentral/fileexchange/122357-cmdwaitbar)
 
 ---
 
