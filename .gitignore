@@ -1,0 +1,5 @@
+# Matlab autosave files and folder display hidden files
+**/*.asv
+**/.DS_Store
+**/*.mgrid
+**/*.mat
